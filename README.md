@@ -14,7 +14,7 @@ This project represents a **real business solution**, combining visual appeal, p
 
 ## 💡 About the Project
 
-This website was created to help a **pizzeria brand** build a strong online presence and stand out from competitors.
+This website was created to help a **pizzeria business** build a strong online presence and stand out from competitors.
 
 Main focus:
 
@@ -74,15 +74,14 @@ This type of website is ideal for:
 
 - 🍕 Pizzerias  
 - 🍔 Restaurants  
-- 🍝 Italian food brands  
-- 🍽️ Food businesses  
+- 🌍 Food businesses (local or international)  
 
 👉 Helps businesses:
 
 ✔ Attract more customers  
 ✔ Showcase their menu professionally  
 ✔ Increase orders  
-✔ Build a strong brand identity  
+✔ Build a strong brand presence  
 
 ---
 
